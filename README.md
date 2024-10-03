@@ -42,3 +42,6 @@ This notebook covers the following capabilities:
 - **Document Intelligence**: Extracts text from PDFs.
 - **Azure OpenAI**: Generates text embeddings for semantic search and generate response to queries using gpt 4o.
 - **AI Search**: Indexes documents and provides vector search capabilities.
+
+### Flow Diagram
+![Flow Diagram](architecture-rag-custom.png)
