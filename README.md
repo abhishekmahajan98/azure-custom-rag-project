@@ -34,11 +34,11 @@ This notebook covers the following capabilities:
 - **Search Index Creation**: Create an AI Search index with vector search capabilities.
 - **Document Indexing**: Upload processed documents to the search index.
 - **Vector Search**: Perform semantic search using vector queries.
-
+- **GPT 4o Integration**: Use Vector Search Quput to queries as context and return the answer to user in a legible way
 
 ## Key Components
 
 - **Blob Storage**: Stores the original PDF documents.
 - **Document Intelligence**: Extracts text from PDFs.
-- **Azure OpenAI**: Generates text embeddings for semantic search.
+- **Azure OpenAI**: Generates text embeddings for semantic search and generate response to queries using gpt 4o.
 - **AI Search**: Indexes documents and provides vector search capabilities.
